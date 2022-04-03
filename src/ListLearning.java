@@ -20,6 +20,11 @@ public class ListLearning {
         System.out.println(b.remove(1));
         b.remove(String.valueOf("monkey"));
         System.out.println( b.contains("cat"));
+    // For traverse:
+        for(int i=0;i<b.size();i++)
+        {
+            System.out.println(b.get(i));
+        }
 
 
     }
