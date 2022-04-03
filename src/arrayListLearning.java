@@ -12,7 +12,7 @@ public class arrayListLearning {
         System.out.println(a);
         a.remove(3);
         System.out.println(a);
-        
+
 
     }
 }
